@@ -1,7 +1,7 @@
 # Excel-Data-Analytics-Project---Vrinda-Store-Analysis
 Excel Data Analytics Project - Vrinda Store Analysis
 
-This project demonstrates how I have used Microsoft Excel to analyze data from the data set and creaate a sales report for the company "Vrinda Stores" with goal of helping them get an overall understanding of their customers and how best to retain and improve current customer relationships and target potential customers.
+This project demonstrates how I have used Microsoft Excel to analyze data from the data set and create a sales report for the company "Vrinda Stores" with goal of helping them get an overall understanding of their customers and how best to retain and improve current customer relationships and target potential customers.
 
 Key Findings:
 1.Women contributed 64 percent and men contributed 36 percent of the total annual sales.
